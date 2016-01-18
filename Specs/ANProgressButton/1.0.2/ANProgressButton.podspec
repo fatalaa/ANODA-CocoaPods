@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
 
   spec.dependency 'ANColorTheme', '~> 1.0'
   spec.dependency 'ReactiveCocoa', '~> 2.4.2'
-  spec.dependency 'MSSPopMasonry'
+  spec.dependency 'MSSPopMasonry', '~> 0.0.2'
   spec.dependency 'ANCategories', '~> 1.0'
 
   spec.ios.deployment_target = '6.0'
