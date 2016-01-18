@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
   spec.dependency 'ANHelperFunctions', '~> 1.0'
   spec.dependency 'pop'
   spec.dependency 'POP+MCAnimate', '~> 1.1'
-  spec.dependency 'MSSPopMasonry'
+  spec.dependency 'MSSPopMasonry', '~> 0.0.2'
   spec.dependency 'ReactiveCocoa', '~> 2.4.2'
   spec.dependency 'FrameAccessor', '~> 1.3.2'
 
